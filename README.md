@@ -1,6 +1,5 @@
 
-<h2 align="justify">🚀 Olá! Eu sou Amanda Neri</h2>
-<h2 align="justify">Bem-vindo(a) ao meu mundo tech 💻!</h2>
+<h2 align="justify">🚀 Olá! Eu sou Amanda Neri. Seja muito Bem-vindo(a) 💻🤩</h2>
 
 <h2 align="justify">💡 Sobre mim:</h2>
 
@@ -59,18 +58,17 @@
     <a> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a>
-    <a> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> 
-    </a>
-    <a> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
-    </a>
 </p>
+
+<h4 align="justify">📢 Outros conhecimentos:</h4>
+<h4 align="justify">Power BI, Tableau, Excel, Pacote Microsoft Office 365, Trello, ClickUp, Notion, Zoom, Google Meet, Canva, entre outros.</h4>
+
+
 
 <h2 align="justify">⭐ Destaques:</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=NeriAmanda&show_icons=true&theme=radical&include_all_commits=true"><p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeriAmanda&theme=radical" alt="NeriAmanda" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeriAmanda&theme=radical" alt="NeriAmanda" />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeriAmanda&layout=compact&theme=radical" alt="NeriAmanda" /></p>
 
 
