@@ -29,16 +29,10 @@
 
 <p align="left">
     <a> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    </a>
-    <a> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a>
     <a> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a>
-    <a> 
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
     </a>
     <a> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -61,7 +55,7 @@
 </p>
 
 <h4 align="justify">📢 Outros conhecimentos:</h4>
-<h4 align="justify">Power BI, Tableau, Excel, Pacote Microsoft Office 365, Trello, ClickUp, Notion, Zoom, Google Meet, Canva, entre outros.</h4>
+<h4 align="justify">Power BI, Tableau, SQL, Excel, Pacote Microsoft Office 365, Trello, ClickUp, Notion, Zoom, Google Meet, Canva, entre outros.</h4>
 
 
 
