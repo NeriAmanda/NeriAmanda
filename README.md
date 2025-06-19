@@ -12,12 +12,14 @@
 <h4 align="justify">🐶 Mãe de Pet e amante de animais</h4>
 <h4 align="justify">🎸 Apaixonada por música, toco instrumentos e a música é uma grande fonte de inspiração na minha vida 🎵</h4>
 
+
 <h2 align="justify">🔎 Contatos:</h2>
 <div> 
-   <a href="mailto:mandaneri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/amanda-neri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:mandaneri@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/amanda-neri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://t.me/amandaaneri" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/amanda_neri" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/amanda_neri" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://mandaneri.wixsite.com/data-analyst" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%234CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
 </div>
 
 
