@@ -156,4 +156,61 @@ Minha trajetória profissional me proporcionou uma forte capacidade analítica e
 </p>
 
 
+### 🛠️ Ferramentas e Tecnologias
 
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Business Intelligence & Visualização</strong><br>
+      <sub>Criação de dashboards e relatórios interativos para análise de dados.</sub><br><br>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+      <img src="https://img.shields.io/badge/DAX-black?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX">
+      <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio">
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+      <img src="https://img.shields.io/badge/Matplotlib-3B79A9?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+      <img src="https://img.shields.io/badge/Seaborn-3B79A9?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+    </td>
+    <td valign="top" width="33%">
+      <strong>Linguagens & Bibliotecas de Dados</strong><br>
+      <sub>Programação e bibliotecas para manipulação e análise de dados.</sub><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+    </td>
+    <td valign="top" width="33%">
+      <strong>Bancos de Dados</strong><br>
+      <sub>Linguagens e sistemas para consulta e gerenciamento de dados.</sub><br><br>
+      <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Ecossistema de Dados & Big Data</strong><br>
+      <sub>Ferramentas para processos de ETL, orquestração e Big Data.</sub><br><br>
+      <img src="https://img.shields.io/badge/ETL-4479A1?style=for-the-badge&logo=ibm&logoColor=white" alt="ETL">
+      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
+    </td>
+    <td valign="top" width="33%">
+      <strong>Gestão de Projetos & Métodos</strong><br>
+      <sub>Metodologias e ferramentas para organização e colaboração.</sub><br><br>
+      <img src="https://img.shields.io/badge/Metodologias%20Ágeis-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Metodologias Ágeis">
+      <img src="https://img.shields.io/badge/Scrum-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Scrum">
+      <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Kanban">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </td>
+    <td valign="top" width="33%">
+      <strong>Ambientes, Design & Outros</strong><br>
+      <sub>Ferramentas de desenvolvimento, prototipagem e produtividade.</sub><br><br>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+    </td>
+  </tr>
+</table>
