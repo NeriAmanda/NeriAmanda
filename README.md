@@ -15,7 +15,7 @@ Minha trajetória profissional me proporcionou uma forte capacidade analítica e
 
 - 🔭 Atualmente sou **Analista de Dados**, onde trabalho com modelagem de dados, automações e desenvolvimento de dashboards.
 - 👩‍🎓 Cursando **Análise e Desenvolvimento de Sistemas** e **Curso Técnico de Analista de Dados**, para fortalecer minha base em tecnologia.
-- 🌱 Estou sempre aprimorando minhas habilidades em **Python (Pandas, NumPy)**, **SQL para bancos de dados relacionais** e processos de **ETL**.
+- 🌱 Estou sempre aprimorando minhas habilidades em **Python**, **SQL para bancos de dados relacionais** e processos de **ETL**.
 
 ---
 
