@@ -55,7 +55,7 @@
 </p>
 
 <h4 align="justify">📢 Outros conhecimentos:</h4>
-<h4 align="justify">Power BI, Tableau, SQL, Excel, Pacote Microsoft Office 365, Trello, ClickUp, Notion, Zoom, Google Meet, Canva, entre outros.</h4>
+<h4 align="justify">Power BI, SQL, Excel, Pacote Microsoft Office 365, Trello, ClickUp, Notion, Zoom, Google Meet, Canva, entre outros.</h4>
 
 
 
@@ -63,7 +63,97 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=NeriAmanda&show_icons=true&theme=radical&include_all_commits=true"><p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeriAmanda&theme=radical" alt="NeriAmanda" />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeriAmanda&layout=compact&theme=radical" alt="NeriAmanda" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeriAmanda&layout=compact&theme=radical" alt="NeriAmanda" /></p> 
+
+
+versão 2:
+
+
+# Amanda Gabriella dos Santos Neri
+
+### Analista de Dados | Python | SQL | Power BI
+
+<a href="mailto:mandaneri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/amanda-neri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://mandaneri.wixsite.com/data-analyst"><img src="https://img.shields.io/badge/Portfólio-%234CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+
+---
+
+### 💡 Sobre mim
+
+[cite_start]Sou uma Analista de Dados apaixonada por resolver problemas e transformar dados brutos em insights que geram valor e otimizam a tomada de decisão[cite: 4, 6].
+
+Minha trajetória profissional me proporcionou uma forte capacidade analítica e uma perspectiva única sobre como os dados podem impactar resultados. Essa vivência despertou meu interesse em aprofundar minhas competências técnicas, e hoje meu foco é aplicar e expandir minhas habilidades na construção de soluções data-driven.
+
+- [cite_start]🔭 Atualmente sou **Analista de Dados Voluntária** no Instituto Themis Furigo, onde trabalho com modelagem de dados, automações e desenvolvimento de dashboards[cite: 8].
+- [cite_start]👩‍🎓 Cursando **Análise e Desenvolvimento de Sistemas** [cite: 9] [cite_start]e **Curso Técnico de Analista de Dados** [cite: 10] para fortalecer minha base em tecnologia.
+- [cite_start]🌱 Estou sempre aprimorando minhas habilidades em **Python (Pandas, NumPy)**, **SQL para bancos de dados relacionais** e processos de **ETL**[cite: 5, 8].
+
+---
+
+### 🚀 Projetos em Destaque
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Dashboard de Análise para ONG</h3>
+<div align="center">
+[cite_start]<p>Desenvolvimento de um dashboard interativo no <strong>Power BI</strong> para monitorar KPIs do Instituto Themis Furigo, apoiando a tomada de decisão estratégica da gestão[cite: 8].</p>
+<p>
+<a href="LINK-PARA-O-REPOSITORIO" target="_blank">
+<img src="https://img.shields.io/badge/VER%20PROJETO-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p><strong>Tecnologias:</strong> Power BI, DAX, Power Query</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Análise Exploratória de Dados com Python</h3>
+<div align="center">
+[cite_start]<p>Análise de um dataset público utilizando <strong>Pandas</strong> para manipulação e <strong>Matplotlib/Seaborn</strong> para visualização de padrões e tendências[cite: 8].</p>
+<p>
+<a href="LINK-PARA-O-REPOSITORIO" target="_blank">
+<img src="https://img.shields.io/badge/VER%20PROJETO-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p><strong>Tecnologias:</strong> Python, Pandas, Matplotlib, Jupyter Notebook</p>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Ferramentas e Tecnologias
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Business Intelligence</strong><br>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+      <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio">
+    </td>
+    <td valign="top" width="33%">
+      <strong>Análise & Linguagens</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    </td>
+    <td valign="top" width="33%">
+      <strong>Bancos de Dados</strong><br>
+      <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⭐ Estatísticas do GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NeriAmanda&show_icons=true&theme=radical&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeriAmanda&layout=compact&theme=radical">
+</p>
 
 
 
