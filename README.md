@@ -26,7 +26,6 @@ Minha trajetória profissional me proporcionou uma forte capacidade analítica e
 <td width="50%">
 <h3 align="center">Análise de Dados: Diversidade no Mercado de TI Brasileiro<h3>
 <div align="center">
-<p>Análise da pesquisa <strong>Data Hackers 2022</strong> sobre o cenário de diversidade no mercado de tecnologia brasileiro, utilizando <strong>Python</strong>, <strong>SQL</strong> e um dashboard no <strong>Looker Studio</strong>.</p>
 <p>
 <a href="https://github.com/NeriAmanda/Analise_Dados_PrograMaria" target="_blank">
 <img src="https://img.shields.io/badge/VER%20PROJETO-FFF?style=for-the-badge&logo=github&logoColor=black">
@@ -41,16 +40,21 @@ Minha trajetória profissional me proporcionou uma forte capacidade analítica e
 </div>
 </div>
 </td>
-<td width="50%">
-<h3 align="center">Análise Exploratória de Dados com Python</h3>
+<td width-="50%">
+<h3 align="center">Análise de Dados: People Analytics<h3>
 <div align="center">
-[cite_start]<p>Análise de um dataset público utilizando <strong>Pandas</strong> para manipulação e <strong>Matplotlib/Seaborn</strong> para visualização de padrões e tendências[cite: 8].</p>
 <p>
-<a href="LINK-PARA-O-REPOSITORIO" target="_blank">
-<img src="https://img.shields.io/badge/VER%20PROJETO-000?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/NeriAmanda/Relatorio-People-Analytics-Dashboard" target="_blank">
+<img src="https://img.shields.io/badge/VER%20PROJETO-FFF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p><strong>Tecnologias:</strong> Python, Pandas, Matplotlib, Jupyter Notebook</p>
+<p><strong>Tecnologias utilizadas:</strong></p>
+<div>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">&nbsp;
+    <img src="https://img.shields.io/badge/DAX-E34F26?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX">&nbsp;
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">&nbsp;
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</div>
 </div>
 </td>
 </tr>
