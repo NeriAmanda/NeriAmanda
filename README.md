@@ -1,5 +1,5 @@
 
-<h2 align="justify">🚀 Olá! Eu sou Amanda Neri. Seja muito Bem-vindo(a) 💻🤩</h2>
+<h2 align="justify"> Olá! Eu sou Amanda Neri. Seja muito Bem-vindo(a)</h2>
 
 ### Analista de Dados | Python | SQL | Power BI
 
@@ -24,15 +24,21 @@ Minha trajetória profissional me proporcionou uma forte capacidade analítica e
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Dashboard de Análise para ONG</h3>
+<h3 align="center">Análise de Dados: Diversidade no Mercado de TI Brasileiro<h3>
 <div align="center">
-[cite_start]<p>Desenvolvimento de um dashboard interativo no <strong>Power BI</strong> para monitorar KPIs do Instituto Themis Furigo, apoiando a tomada de decisão estratégica da gestão[cite: 8].</p>
+<p>Análise da pesquisa <strong>Data Hackers 2022</strong> sobre o cenário de diversidade no mercado de tecnologia brasileiro, utilizando <strong>Python</strong>, <strong>SQL</strong> e um dashboard no <strong>Looker Studio</strong>.</p>
 <p>
-<a href="LINK-PARA-O-REPOSITORIO" target="_blank">
-<img src="https://img.shields.io/badge/VER%20PROJETO-000?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/NeriAmanda/Analise_Dados_PrograMaria" target="_blank">
+<img src="https://img.shields.io/badge/VER%20PROJETO-FFF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p><strong>Tecnologias:</strong> Power BI, DAX, Power Query</p>
+<p><strong>Tecnologias utilizadas:</strong></p>
+<div>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
+    <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">&nbsp;
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">&nbsp;
+    <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio">
+</div>
 </div>
 </td>
 <td width="50%">
@@ -110,7 +116,6 @@ Minha trajetória profissional me proporcionou uma forte capacidade analítica e
     </td>
   </tr>
 </table>
-
 
 
 <h2 align="justify">⭐ Destaques:</h2>
