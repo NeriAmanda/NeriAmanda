@@ -3,7 +3,7 @@
 
 ### Analista de Dados | Python | SQL | Power BI
 
-<a href="mailto:mandaneri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:mandaneri@gmail.com" title="E-mail: mandaneri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/amanda-neri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://mandaneri.wixsite.com/data-analyst"><img src="https://img.shields.io/badge/Portfólio-%234CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 
